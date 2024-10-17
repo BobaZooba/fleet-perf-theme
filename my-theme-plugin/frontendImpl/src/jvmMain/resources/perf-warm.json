@@ -1,0 +1,1236 @@
+{
+  "meta": {
+    "theme.name": "Perf Warm",
+    "theme.kind": "Dark",
+    "theme.version": 8
+  },
+  "colors": {
+    "border": "Main Border",
+    "background.primary": "Base",
+    "focusOutline": "Accent 5",
+    "shadow.border": "Main Border",
+    "shadow.background.small": "Transparent",
+    "shadow.background.medium": "#0e0e11",
+    "shadow.background.large": "#0e0e11",
+    "text.primary": "Color 26",
+    "tree.focusBorder": "Accent 2",
+    "border.focused": "Light",
+    "text.secondary": "Color 23",
+    "text.dimmed": "Color 23",
+    "text.disabled": "Color 20",
+    "text.error": "White",
+    "text.success": "Color 4",
+    "background.dimmed": "Transparent",
+    "background.disabled": "Transparent",
+    "background.error": "Color 27",
+    "button.positive.background.default": "Green 60",
+    "button.positive.background.disabled": "Base",
+    "button.positive.background.hovered": "Green 50",
+    "button.positive.background.pressed": "Green 40",
+    "button.positive.focusOutline": "Green 40",
+    "button.positive.focusBorder": "Color 5",
+    "button.positive.border.default": "Transparent",
+    "button.positive.border.hovered": "Transparent",
+    "button.positive.border.pressed": "Transparent",
+    "button.positive.border.disabled": "Color 12",
+    "button.positive.text.default": "White",
+    "button.positive.text.disabled": "Color 20",
+    "button.positive.text.hovered": "White",
+    "button.positive.text.pressed": "White",
+    "button.secondary.background.default": "Darker",
+    "button.secondary.background.disabled": "Base",
+    "button.secondary.background.hovered": "Focus",
+    "button.secondary.background.pressed": "Focus Progress",
+    "button.secondary.border.default": "Color 18",
+    "button.secondary.border.disabled": "Color 12",
+    "button.secondary.focusOutline": "Focus",
+    "button.secondary.focusBorder": "Focus",
+    "button.secondary.text.default": "Color 26",
+    "button.secondary.text.disabled": "Color 20",
+    "button.secondary.text.hovered": "Color 26",
+    "button.secondary.text.pressed": "Color 26",
+    "checkbox.focusBorder": "Accent 1",
+    "checkbox.on.border.default": "#756B8C",
+    "checkbox.icon.default": "#A4A1B3",
+    "checkbox.on.background.default": "#343445",
+    "checkbox.off.border.default": "Color 15",
+    "checkbox.icon.disabled": "Color 19",
+    "checkbox.text.disabled": "Color 20",
+    "checkbox.off.background.disabled": "Secondary",
+    "button.dangerous.background.default": "Color 27",
+    "button.dangerous.background.hovered": "#DF476D",
+    "button.dangerous.background.pressed": "#E14F73",
+    "button.dangerous.background.disabled": "Base",
+    "button.dangerous.focusOutline": "Red 30",
+    "button.dangerous.focusBorder": "#ED7388",
+    "button.dangerous.text.default": "White",
+    "button.dangerous.text.disabled": "Color 20",
+    "button.dangerous.border.default": "Transparent",
+    "button.dangerous.border.disabled": "Color 12",
+    "button.tile.off.background.default": "Color 8",
+    "button.tile.off.background.disabled": "Color 6",
+    "button.tile.off.background.hovered": "Color 10",
+    "button.tile.off.background.pressed": "Color 17",
+    "button.tile.off.border.default": "Main Border",
+    "button.tile.off.border.disabled": "Color 12",
+    "button.tile.off.border.hovered": "Main Border",
+    "button.tile.off.border.pressed": "Transparent",
+    "button.tile.off.focusBorder": "Accent 3",
+    "button.tile.off.focusOutline": "Accent 5",
+    "button.tile.off.text.default": "Color 26",
+    "button.tile.off.text.disabled": "Color 20",
+    "button.tile.off.text.hovered": "Color 26",
+    "button.tile.off.text.pressed": "Color 26",
+    "button.tile.on.background.default": "Color 8",
+    "button.tile.on.background.disabled": "Color 6",
+    "button.tile.on.background.hovered": "Color 10",
+    "button.tile.on.background.pressed": "Color 17",
+    "button.tile.on.border.default": "Accent 3",
+    "button.tile.on.border.disabled": "Color 12",
+    "button.tile.on.border.hovered": "Accent 3",
+    "button.tile.on.border.pressed": "Transparent",
+    "button.tile.on.focusBorder": "Accent 3",
+    "button.tile.on.focusOutline": "Accent 5",
+    "button.tile.on.text.default": "Color 26",
+    "button.tile.on.text.disabled": "Color 20",
+    "button.tile.on.text.hovered": "Color 26",
+    "button.tile.on.text.pressed": "Color 26",
+    "editor.gitDiff.background.blame": "Yellow 40",
+    "editor.gitDiff.background.added": "#39703F",
+    "editor.gitDiff.background.deleted": "#DFDFE6",
+    "editor.gitDiff.background.modified": "#3E7AB3",
+    "editor.gitDiff.background.conflict": "#BD3C5F",
+    "editor.gitDiff.text.added": "#b7eec2",
+    "editor.gitDiff.text.modified": "#9fbfe8",
+    "editor.gitDiff.text.conflict": "#d78787",
+    "dragAndDrop.background": "#FFFFFF33",
+    "dragAndDrop.border.default": "BlueTint_60",
+    "dragAndDrop.border.highlight": "BlueTint_25",
+    "problemsWidget.checkmark.background": "Green 20",
+    "problemsWidget.checkmark.foreground": "Green 70",
+    "problemsWidget.status.expanded.background.error": "Red 50",
+    "problemsWidget.status.expanded.background.warning": "Yellow 40",
+    "problemsWidget.status.expanded.background.weakWarning": "Yellow 10",
+    "problemsWidget.status.expanded.border.error": "Red 50",
+    "problemsWidget.status.expanded.border.warning": "Yellow 40",
+    "problemsWidget.status.expanded.border.weakWarning": "Yellow 30",
+    "editor.renamePostline.border": "Accent 2",
+    "editor.renamePostline.background": "Base",
+    "editor.renamePostline.description.text": "Color 26",
+    "editor.renamePostline.usages.text": "Orange",
+    "editor.background": "Base",
+    "editor.text": "Gray",
+    "editor.caret.background": "Gray Light Dark",
+    "editor.caret.border": "Gray Light Dark",
+    "editor.currentLine.background.default": "Lighter",
+    "editor.currentLine.background.focused": "Main Border",
+    "editor.lineNumber.default": "#575566",
+    "editor.lineNumber.current": "#9A97A8",
+    "editor.whitespaceIndicator": "Color 23",
+    "editor.foldIndicator.icon.default": "Gray Dark",
+    "editor.foldIndicator.icon.hovered": "Gray Light Dark",
+    "editor.foldIndicator.background.hovered": "Main Border",
+    "editor.foldedMark.text": "#8C8C97",
+    "editor.foldedMark.background": "#3A3A52",
+    "editor.selectableFolded.background.focused": "Color 2",
+    "editor.selectableFolded.background.default": "Transparent",
+    "editor.selectableFolded.border.focused": "Violet",
+    "editor.selectableFolded.border.default": "Gray Dark",
+    "editor.selectableFolded.text.default": "Gray Dark",
+    "editor.selectableFolded.text.focused": "#D1D1D199",
+    "mainToolbar.background": "Secondary",
+    "smartMode.background.enabled": "Pink",
+    "smartMode.border.loading": "#5A5873",
+    "smartMode.background.error": "Red 70",
+    "icon.background.blue": "#4D85FF",
+    "icon.background.green": "Color 4",
+    "icon.background.orange": "#CABA2D",
+    "icon.background.red": "#C63A5D",
+    "icon.background.cyan": "#13A4CD",
+    "ghostButton.off.border.default": "Transparent",
+    "ghostButton.off.focusBorder": "Accent 3",
+    "ghostButton.off.background.default": "Transparent",
+    "ghostButton.off.background.hovered": "Main Border",
+    "ghostButton.off.background.pressed": "Darker",
+    "ghostButton.off.text.disabled": "Color 20",
+    "ghostButton.on.background.default": "Color 14",
+    "ghostButton.on.background.disabled": "Color 7",
+    "ghostButton.on.background.hovered": "Color 14",
+    "ghostButton.on.focusBorder": "Accent 3",
+    "ghostButton.on.text.default": "Accent 0",
+    "ghostButton.on.text.hovered": "Accent 0",
+    "ghostButton.on.text.pressed": "Accent 0",
+    "inputField.selectionBackground.default": "Color 2",
+    "inputField.background.disabled": "Color 7",
+    "inputField.background.default": "Base",
+    "inputField.background.error": "Base",
+    "inputField.text.disabled": "Color 20",
+    "inputField.border.error": "Color 25",
+    "inputField.border.disabled": "Color 12",
+    "inputField.caret.default": "White",
+    "inputField.caret.error": "White",
+    "inputField.focusOutline.default": "Accent 5",
+    "inputField.focusOutline.error": "Color 25",
+    "inputField.focusBorder.default": "Accent 3",
+    "inputField.focusBorder.error": "#D4677A",
+    "link.text.default": "#7094FF",
+    "link.focusOutline": "Accent 3",
+    "popup.border": "Main Border",
+    "popup.background": "Secondary",
+    "popup.editor.background": "Secondary",
+    "popup.tab.background.default": "Transparent",
+    "popup.tab.background.hovered": "#3E3A4E",
+    "popup.tab.background.selected": "Transparent",
+    "popup.tab.border": "Accent 2",
+    "popup.tabPanel.background": "Secondary",
+    "popup.tab.indicator": "Accent 2",
+    "popup.listItem.border.default": "Transparent",
+    "popup.listItem.border.hovered": "Transparent",
+    "popup.listItem.border.selected": "Transparent",
+    "popup.listItem.border.focused": "Transparent",
+    "popup.listItem.background.default": "Secondary",
+    "popup.listItem.background.hovered": "Secondary",
+    "popup.listItem.background.selected": "Color 11",
+    "popup.listItem.background.focused": "Accent 12",
+    "popup.listItem.text.secondary": "Color 23",
+    "popup.listItem.text.hovered": "Color 26",
+    "popup.listItem.text.selected": "Color 26",
+    "popup.listItem.text.focused": "Color 26",
+    "button.primary.background.default": "Accent 6",
+    "button.primary.background.hovered": "Accent 4",
+    "button.primary.background.pressed": "Accent 8",
+    "button.primary.background.disabled": "Base",
+    "button.primary.focusOutline": "Accent 4",
+    "button.primary.focusBorder": "Accent 4",
+    "button.primary.border.default": "Accent 9",
+    "button.primary.border.disabled": "Color 12",
+    "button.primary.border.hovered": "Accent 10",
+    "button.primary.border.pressed": "Accent 10",
+    "button.primary.text.disabled": "Color 20",
+    "button.primary.text.default": "Color 26",
+    "button.primary.text.hovered": "Color 26",
+    "button.primary.text.pressed": "Color 26",
+    "button.primary.text.focused": "Color 26",
+    "pillButton.background.default": "Secondary",
+    "pillButton.background.disabled": "Secondary",
+    "pillButton.background.hovered": "Color 15",
+    "pillButton.background.pressed": "Color 19",
+    "pillButton.focusOutline": "Accent 4",
+    "pillButton.focusBorder": "Color 5",
+    "pillButton.border.default": "Main Border",
+    "pillButton.border.hovered": "Main Border",
+    "pillButton.border.pressed": "Main Border",
+    "pillButton.border.disabled": "Main Border",
+    "pillButton.text.default": "Color 23",
+    "pillButton.text.disabled": "Color 20",
+    "pillButton.text.hovered": "Color 23",
+    "pillButton.text.pressed": "Color 26",
+    "progressBar.determinate.foreground": "Accent 16",
+    "progressBar.determinate.background": "Base",
+    "progressBar.indeterminate.foreground": "Accent 16",
+    "progressBar.indeterminate.foregroundAccent": "Accent 11",
+    "editor.interline.block.background": "Color 3",
+    "editor.interline.listItem.border.default": "Transparent",
+    "editor.interline.listItem.border.hovered": "Transparent",
+    "editor.interline.listItem.border.selected": "Transparent",
+    "editor.interline.listItem.border.focused": "Transparent",
+    "editor.interline.listItem.background.default": "Color 3",
+    "editor.interline.listItem.background.hovered": "Secondary",
+    "editor.interline.listItem.background.selected": "Color 11",
+    "editor.interline.listItem.background.focused": "Accent 12",
+    "editor.interline.listItem.text.secondary": "Color 23",
+    "editor.interline.listItem.text.hovered": "Color 26",
+    "editor.interline.listItem.text.selected": "Color 26",
+    "editor.interline.listItem.text.focused": "Color 26",
+    "listItem.border.default": "Transparent",
+    "listItem.border.hovered": "Transparent",
+    "listItem.border.selected": "Transparent",
+    "listItem.border.focused": "Transparent",
+    "listItem.background.default": "Base",
+    "listItem.background.hovered": "Secondary",
+    "listItem.background.selected": "Color 11",
+    "listItem.background.focused": "Accent 12",
+    "listItem.focusBorder": "Accent 2",
+    "listItem.text.secondary": "Color 23",
+    "listItem.text.hovered": "Color 26",
+    "listItem.text.selected": "Color 26",
+    "listItem.text.focused": "Color 26",
+    "separator.default": "Main Border",
+    "separator.hovered": "Pink",
+    "switch.on.thumb": "Color 26",
+    "switch.on.track.default": "Accent 6",
+    "switch.on.track.hovered": "Accent 6",
+    "switch.off.thumb": "Color 26",
+    "switch.off.track.hovered": "Color 21",
+    "switch.off.track.default": "Color 21",
+    "search.match.background": "Strings",
+    "search.match.text": "Black",
+    "search.counter.background": "#FFFFFF26",
+    "completion.match.background": "Transparent",
+    "completion.match.text": "Accent 13",
+    "parameterInfo.match.text": "Accent 13",
+    "tab.border": "Lighter",
+    "tab.background.default": "Secondary",
+    "tab.background.selected": "Darker",
+    "tab.background.hovered": "Lighter",
+    "tabPanel.background": "Secondary",
+    "tab.indicator": "Darker",
+    "notification.background.default": "Base",
+    "notification.background.unread": "Secondary",
+    "notification.text.primary": "Color 26",
+    "notification.text.secondary": "Color 23",
+    "notification.separator": "Main Border",
+    "notification.moreButton.background.default": "Violet_30",
+    "notification.moreButton.background.hovered": "Violet_40",
+    "notification.moreButton.background.pressed": "Violet_50",
+    "terminal.ansiColors.background.ansiBlack": "#484848",
+    "terminal.ansiColors.background.ansiBlue": "#405C80",
+    "terminal.ansiColors.background.ansiBrightBlack": "#424242",
+    "terminal.ansiColors.background.ansiBrightBlue": "#314966",
+    "terminal.ansiColors.background.ansiBrightCyan": "#2F5F66",
+    "terminal.ansiColors.background.ansiBrightGreen": "#2D6654",
+    "terminal.ansiColors.background.ansiBrightMagenta": "#4E3166",
+    "terminal.ansiColors.background.ansiBrightRed": "#66333A",
+    "terminal.ansiColors.background.ansiBrightWhite": "Base",
+    "terminal.ansiColors.background.ansiBrightYellow": "#665234",
+    "terminal.ansiColors.background.ansiCyan": "#477880",
+    "terminal.ansiColors.background.ansiGreen": "#437A6A",
+    "terminal.ansiColors.background.ansiMagenta": "#6B5280",
+    "terminal.ansiColors.background.ansiRed": "#804A52",
+    "terminal.ansiColors.background.ansiWhite": "#898989",
+    "terminal.ansiColors.background.ansiYellow": "#80653E",
+    "terminal.ansiColors.foreground.ansiBlack": "#B3B3B3",
+    "terminal.ansiColors.foreground.ansiBlue": "#1D6BCC",
+    "terminal.ansiColors.foreground.ansiBrightBlack": "#595959",
+    "terminal.ansiColors.foreground.ansiBrightBlue": "#0067E6",
+    "terminal.ansiColors.foreground.ansiBrightCyan": "#00BAD6",
+    "terminal.ansiColors.foreground.ansiBrightGreen": "#009E6F",
+    "terminal.ansiColors.foreground.ansiBrightMagenta": "#EB4DDE",
+    "terminal.ansiColors.foreground.ansiBrightRed": "#C7001B",
+    "terminal.ansiColors.foreground.ansiBrightWhite": "#0D0D0D",
+    "terminal.ansiColors.foreground.ansiBrightYellow": "#E09119",
+    "terminal.ansiColors.foreground.ansiCyan": "#2CCCE6",
+    "terminal.ansiColors.foreground.ansiGreen": "#88DBD7",
+    "terminal.ansiColors.foreground.ansiMagenta": "#EB83E2",
+    "terminal.ansiColors.foreground.ansiRed": "#C73649",
+    "terminal.ansiColors.foreground.ansiWhite": "#212121",
+    "terminal.ansiColors.foreground.ansiYellow": "#FAD075",
+    "toggleButton.off.background.default": "Color 12",
+    "toggleButton.off.background.disabled": "Base",
+    "toggleButton.off.background.hovered": "Color 15",
+    "toggleButton.off.background.pressed": "Color 19",
+    "toggleButton.off.text.disabled": "Color 20",
+    "toggleButton.off.text.pressed": "Color 23",
+    "toggleButton.off.border.default": "Color 18",
+    "toggleButton.off.border.disabled": "Transparent",
+    "toggleButton.off.focusBorder": "Accent 3",
+    "toggleButton.on.border.default": "Accent 9",
+    "toggleButton.on.focusBorder": "Accent 10",
+    "toggleButton.on.background.default": "Accent 6",
+    "toggleButton.on.background.disabled": "Secondary",
+    "toggleButton.on.background.hovered": "Accent 7",
+    "toggleButton.on.background.pressed": "Accent 8",
+    "tool.background": "Base",
+    "remote.userColor.background.one": "#DB3552",
+    "remote.userColor.background.two": "#E55F2E",
+    "remote.userColor.background.three": "Yellow 60",
+    "remote.userColor.background.four": "#74A827",
+    "remote.userColor.background.five": "Green 70",
+    "remote.userColor.background.six": "Blue 80",
+    "remote.userColor.background.seven": "#3D5BFC",
+    "remote.userColor.background.eight": "#6D4DFF",
+    "remote.userColor.background.nine": "#A842EB",
+    "remote.userColor.background.ten": "#BD40B4",
+    "statusBar.background": "Base",
+    "gitBranchTag.local.text": "Blue 100",
+    "gitBranchTag.local.background": "Blue 10-60",
+    "gitBranchTag.local.border": "Blue 100",
+    "gitBranchTag.remote.text": "Purple 30",
+    "gitBranchTag.remote.background": "Purple 10-60",
+    "gitBranchTag.remote.border": "Purple 30",
+    "ai.button.default.border.default": "Transparent",
+    "ai.button.default.border.hovered": "Transparent",
+    "ai.button.default.border.pressed": "Transparent",
+    "ai.button.default.border.disabled": "Color 12",
+    "ai.button.default.focusBorder": "Color 5",
+    "ai.button.default.focusOutline": "Color 9",
+    "ai.button.default.background.default": "Color 16",
+    "ai.button.default.background.disabled": "Base",
+    "ai.button.default.background.hovered": "Color 13",
+    "ai.button.default.background.pressed": "Color 9",
+    "ai.button.default.text.default": "White",
+    "ai.button.default.text.disabled": "Color 20",
+    "ai.button.default.text.hovered": "White",
+    "ai.button.default.text.pressed": "White",
+    "ai.button.recipe.border.default": "Color 22",
+    "ai.button.recipe.border.hovered": "Transparent",
+    "ai.button.recipe.border.pressed": "Transparent",
+    "ai.button.recipe.border.disabled": "Color 12",
+    "ai.button.recipe.border.focused": "Color 22",
+    "ai.button.recipe.focusOutline": "Color 9",
+    "ai.button.recipe.focusBorder": "Color 22",
+    "ai.button.recipe.background.default": "Base",
+    "ai.button.recipe.background.disabled": "Base",
+    "ai.button.recipe.background.hovered": "Color 16",
+    "ai.button.recipe.background.pressed": "Color 13",
+    "ai.button.recipe.text.default": "#D1D1D1",
+    "ai.button.recipe.text.disabled": "#5D5D5D",
+    "ai.button.recipe.text.hovered": "White",
+    "ai.button.recipe.text.pressed": "White",
+    "survey.button.focusOutline": "Blue 80",
+    "survey.button.focusBorder": "Accent 3",
+    "survey.button.background.default": "Color 12",
+    "survey.button.background.hovered": "Accent 6",
+    "survey.button.border.default": "Transparent",
+    "survey.button.border.hovered": "Transparent",
+    "survey.button.text.default": "Color 26",
+    "survey.button.text.hovered": "Color 26",
+    "remoteWorkspaceStatusLabel.background.ssh": "Green 20",
+    "remoteWorkspaceStatusLabel.background.wsl": "Yellow 20",
+    "remoteWorkspaceStatusLabel.background.docker": "Blue 30",
+    "remoteWorkspaceStatusLabel.background.space": "#5C338F",
+    "remoteWorkspaceStatusLabel.text.ssh": "Color 26",
+    "remoteWorkspaceStatusLabel.text.wsl": "Color 26",
+    "remoteWorkspaceStatusLabel.text.docker": "Color 26",
+    "remoteWorkspaceStatusLabel.text.space": "Color 26",
+    "remoteHostStatusLabel.background.failed": "Red 10",
+    "remoteHostStatusLabel.background.disconnected": "Color 23",
+    "remoteHostStatusLabel.background.connecting": "Color 26",
+    "remoteHostStatusLabel.background.connected": "Color 4",
+    "settings.modified.indicator": "Yellow 40",
+    "ai.inputField.selectionBackground.default": "Color 2",
+    "ai.inputField.background.disabled": "Color 7",
+    "ai.inputField.background.default": "Base",
+    "ai.inputField.text.disabled": "Color 20",
+    "ai.inputField.border.disabled": "Color 12",
+    "ai.inputField.caret.default": "White",
+    "ai.inputField.focusOutline.default": "Color 9",
+    "ai.inputField.focusBorder.default": "Color 22",
+    "ai.icon.background": "Color 24",
+    "ai.icon.background.secondary": "Color 5",
+    "ai.icon.text": "Color 24",
+    "ai.snippet.border": "Main Border",
+    "ai.snippet.editor.background": "Base",
+    "ai.snippet.header.background": "Secondary",
+    "ai.user.icon.background": "Blue 70",
+    "ai.user.icon.background.secondary": "Blue 20",
+    "ai.user.icon.text": "Blue 100",
+    "ai.error.border": "Red 50",
+    "ai.warning.border": "Yellow 30",
+    "ai.error.fill": "Red 10",
+    "ai.warning.fill": "Yellow 10",
+    "vim.recordingTag.background": "Red_50",
+    "vim.recordingTag.border": "Transparent",
+    "vim.recordingTag.text": "Transparent",
+    "vim.mode.cmdLine.background": "Yellow_50",
+    "vim.mode.cmdLine.border": "Transparent",
+    "vim.mode.cmdLine.text": "Transparent",
+    "vim.mode.insert.background": "Green_50",
+    "vim.mode.insert.border": "Transparent",
+    "vim.mode.insert.text": "Transparent",
+    "vim.mode.normal.background": "Neutral_40",
+    "vim.mode.normal.border": "Transparent",
+    "vim.mode.normal.text": "Transparent",
+    "vim.mode.replace.background": "Red_50",
+    "vim.mode.replace.border": "Transparent",
+    "vim.mode.replace.text": "Transparent",
+    "vim.mode.select.background": "Purple_50",
+    "vim.mode.select.border": "Transparent",
+    "vim.mode.select.text": "Transparent",
+    "vim.mode.visual.background": "Transparent",
+    "vim.mode.visual.border": "Transparent",
+    "vim.mode.visual.text": "Transparent"
+  },
+  "textAttributes": {
+    "editor.text.scheme": {
+      "foregroundColor": "Gray"
+    },
+    "editor.text.composable": {
+      "textDecoration": {
+        "color": "Gray"
+      }
+    },
+    "editor.selection": {
+      "backgroundColor": "Accent 15"
+    },
+    "editor.selection.focused": {
+      "backgroundColor": "#214283"
+    },
+    "editor.search.results": {
+      "backgroundColor": "#2D5959",
+      "statusColor": "#3D9999"
+    },
+    "editor.rename.entries": {
+      "backgroundColor": "#214D3A"
+    },
+    "editor.rename.current": {
+      "border": {
+        "color": "Violet"
+      }
+    },
+    "editor.brace.match": {
+      "backgroundColor": "#2E5246"
+    },
+    "comment": {
+      "foregroundColor": "Gray Dark"
+    },
+    "comment.doc": {
+      "foregroundColor": "Gray Dark"
+    },
+    "comment.doc.tag": {
+      "foregroundColor": "Orange"
+    },
+    "comment.doc.value": {
+      "foregroundColor": "Gray"
+    },
+    "comment.todo": {
+      "foregroundColor": "#79DBB8"
+    },
+    "link": {},
+    "link.always.visible": {
+      "textDecoration": {}
+    },
+    "link.hovered": {
+      "foregroundColor": "#50AFDE",
+      "textDecoration": {
+        "color": "#4D7F99"
+      }
+    },
+    "error.hovered": {
+      "backgroundColor": "Red 20"
+    },
+    "keyword": {
+      "foregroundColor": "Keywords"
+    },
+    "keyword.typeModifier": {
+      "foregroundColor": "Orange"
+    },
+    "metadata": {
+      "foregroundColor": "Orange"
+    },
+    "number": {
+      "foregroundColor": "Blue"
+    },
+    "boolean": {
+      "foregroundColor": "Orange"
+    },
+    "string": {
+      "foregroundColor": "Strings"
+    },
+    "string.binary": {
+      "foregroundColor": "#A5C261"
+    },
+    "string.escape": {
+      "foregroundColor": "Orange"
+    },
+    "string.escape.unicode": {
+      "foregroundColor": "Blue"
+    },
+    "string.escape.alternative": {
+      "foregroundColor": "#FF8D1C"
+    },
+    "string.formatItem": {
+      "foregroundColor": "Orange"
+    },
+    "string.regexp": {
+      "foregroundColor": "#6897BB"
+    },
+    "identifier": {
+      "foregroundColor": "Classes"
+    },
+    "identifier.this": {
+      "foregroundColor": "#8888C6"
+    },
+    "identifier.this.mutable": {
+      "foregroundColor": "#8888C6",
+      "textDecoration": {
+        "color": "#8888C6"
+      }
+    },
+    "identifier.underCaret": {
+      "backgroundColor": "#a08fc233",
+      "statusColor": "#268053"
+    },
+    "identifier.constant": {
+      "foregroundColor": "Violet"
+    },
+    "identifier.constant.predefined": {
+      "foregroundColor": "Orange"
+    },
+    "identifier.variable": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.variable.mutable": {
+      "textDecoration": {
+        "color": "#2E2E38"
+      }
+    },
+    "identifier.parameter": {
+      "foregroundColor": "White"
+    },
+    "identifier.parameter.js": {
+      "foregroundColor": "#85A658"
+    },
+    "identifier.function.declaration": {
+      "foregroundColor": "Functions"
+    },
+    "identifier.function.declaration.js": {
+      "foregroundColor": "Functions"
+    },
+    "identifier.function.call": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.function.call.js": {
+      "foregroundColor": "#FFC66D"
+    },
+    "identifier.function.call.package": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.function.call.composable": {
+      "foregroundColor": "#85A658"
+    },
+    "identifier.method.static": {
+      "foregroundColor": "Gray",
+      "fontStyle": "ITALIC"
+    },
+    "identifier.method.static.js": {
+      "foregroundColor": "#FFC66D",
+      "fontStyle": "ITALIC"
+    },
+    "identifier.type": {
+      "foregroundColor": "Classes"
+    },
+    "identifier.field": {
+      "foregroundColor": "Violet"
+    },
+    "identifier.field.static": {
+      "foregroundColor": "Violet",
+      "fontStyle": "ITALIC"
+    },
+    "identifier.interface": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.type.class": {
+      "foregroundColor": "Classes"
+    },
+    "identifier.type.enum": {
+      "foregroundColor": "Violet"
+    },
+    "identifier.type.struct": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.type.valueType": {
+      "foregroundColor": "Violet"
+    },
+    "identifier.typeParameter": {
+      "foregroundColor": "#37CCCC"
+    },
+    "identifier.namedArgument": {
+      "foregroundColor": "Classes"
+    },
+    "identifier.other": {
+      "foregroundColor": "Gray"
+    },
+    "attributeName.html": {
+      "foregroundColor": "White"
+    },
+    "attributeValue.html": {
+      "foregroundColor": "Green"
+    },
+    "entityReference.html": {
+      "foregroundColor": "Blue"
+    },
+    "tag.html": {
+      "foregroundColor": "Orange"
+    },
+    "tagName.html": {
+      "foregroundColor": "Orange"
+    },
+    "tagName.custom.html": {
+      "foregroundColor": "#26BDA4"
+    },
+    "attributeName.css": {
+      "foregroundColor": "Orange"
+    },
+    "hex.css": {
+      "foregroundColor": "Blue"
+    },
+    "identifier.css": {
+      "foregroundColor": "Orange"
+    },
+    "identifier.function.css": {
+      "foregroundColor": "Orange"
+    },
+    "identifier.variable.css": {
+      "foregroundColor": "Blue"
+    },
+    "identifier.variable.php": {
+      "foregroundColor": "Violet"
+    },
+    "property.php": {
+      "foregroundColor": "#BC8DEB"
+    },
+    "property.static.php": {
+      "foregroundColor": "#BC8DEB",
+      "fontStyle": "ITALIC"
+    },
+    "generic.php": {
+      "foregroundColor": "Blue"
+    },
+    "interpolation.css": {
+      "foregroundColor": "Gray"
+    },
+    "jsCodeDelimiter.css": {
+      "foregroundColor": "Green"
+    },
+    "jsCodeInjection.css": {
+      "foregroundColor": "Gray"
+    },
+    "key.json": {
+      "foregroundColor": "Violet"
+    },
+    "keyword.css": {
+      "foregroundColor": "Violet"
+    },
+    "keyword.extend.css": {
+      "foregroundColor": "Violet"
+    },
+    "keyword.global.css": {
+      "foregroundColor": "Violet"
+    },
+    "keyword.important.css": {
+      "foregroundColor": "Orange"
+    },
+    "mixin.css": {
+      "foregroundColor": "Gray"
+    },
+    "number.css": {
+      "foregroundColor": "Blue"
+    },
+    "number.unit.css": {
+      "foregroundColor": "Green"
+    },
+    "propertyName.css": {
+      "foregroundColor": "White"
+    },
+    "propertyValue.css": {
+      "foregroundColor": "Green"
+    },
+    "punctuation.css": {
+      "foregroundColor": "Gray"
+    },
+    "selector.css": {
+      "foregroundColor": "Orange"
+    },
+    "selector.id.css": {
+      "foregroundColor": "Orange"
+    },
+    "selector.class.css": {
+      "foregroundColor": "Orange"
+    },
+    "selector.pseudo.css": {
+      "foregroundColor": "Orange"
+    },
+    "selector.tag.css": {
+      "foregroundColor": "Orange"
+    },
+    "string.css": {
+      "foregroundColor": "Green"
+    },
+    "url.css": {
+      "foregroundColor": "Green"
+    },
+    "attribute.cpp": {
+      "foregroundColor": "#8888C6"
+    },
+    "markup.heading": {
+      "foregroundColor": "Violet"
+    },
+    "markup.bold": {
+      "fontWeight": "BOLD"
+    },
+    "markup.italic": {
+      "fontStyle": "ITALIC"
+    },
+    "markup.code.block": {
+      "foregroundColor": "Green"
+    },
+    "markup.href": {
+      "foregroundColor": "#50AFDE",
+      "fontStyle": "ITALIC",
+      "textDecoration": {}
+    },
+    "punctuation": {
+      "foregroundColor": "Gray"
+    },
+    "punctuation.operator": {
+      "foregroundColor": "Operators"
+    },
+    "snippet": {
+      "border": {
+        "color": "Gray Dark"
+      }
+    },
+    "snippet.selected": {
+      "border": {
+        "color": "Violet"
+      }
+    },
+    "debug.currentFrame": {
+      "backgroundColor": "Accent 14"
+    },
+    "diff.added": {
+      "backgroundColor": "#1D2E25",
+      "statusColor": "#42A651"
+    },
+    "diff.added.word": {
+      "backgroundColor": "#1E4723"
+    },
+    "diff.added.withBorder": {
+      "backgroundColor": "#1D2E25",
+      "border": {
+        "color": "#1E4723"
+      }
+    },
+    "diff.added.empty": {
+      "backgroundColor": "#42A651"
+    },
+    "diff.added.resolved": {
+      "backgroundColor": "Transparent",
+      "border": {
+        "color": "#1E4723"
+      }
+    },
+    "diff.deleted": {
+      "backgroundColor": "#2E2E38",
+      "statusColor": "#BABAD9"
+    },
+    "diff.deleted.word": {
+      "backgroundColor": "#474754"
+    },
+    "diff.deleted.withBorder": {
+      "backgroundColor": "#2E2E38",
+      "border": {
+        "color": "#474754"
+      }
+    },
+    "diff.deleted.empty": {
+      "backgroundColor": "#BABAD9"
+    },
+    "diff.deleted.resolved": {
+      "backgroundColor": "Transparent",
+      "border": {
+        "color": "#474754"
+      }
+    },
+    "diff.modified": {
+      "backgroundColor": "#19324A",
+      "statusColor": "#3399FF"
+    },
+    "diff.modified.word": {
+      "backgroundColor": "#135280"
+    },
+    "diff.modified.withBorder": {
+      "backgroundColor": "#19324A",
+      "border": {
+        "color": "#135280"
+      }
+    },
+    "diff.modified.resolved": {
+      "backgroundColor": "Transparent",
+      "border": {
+        "color": "#135280"
+      }
+    },
+    "diff.conflict.withBorder": {
+      "backgroundColor": "#3F222C",
+      "border": {
+        "color": "#732936"
+      }
+    },
+    "diff.conflict.resolved": {
+      "backgroundColor": "Transparent",
+      "border": {
+        "color": "#732936"
+      }
+    },
+    "refactoring.modified.code": {
+      "backgroundColor": "#1E4723"
+    },
+    "problem.error": {
+      "statusColor": "#DD3962",
+      "textDecoration": {
+        "color": "#DD3962",
+        "style": "WAVY"
+      }
+    },
+    "problem.error.badCharacter": {
+      "statusColor": "#DD3962",
+      "textDecoration": {
+        "color": "#DD3962",
+        "style": "WAVY"
+      }
+    },
+    "problem.warning": {
+      "backgroundColor": "#403618",
+      "statusColor": "#BF8915"
+    },
+    "problem.warning.weak": {
+      "statusColor": "#756D56",
+      "textDecoration": {
+        "color": "#B39500",
+        "style": "WAVY"
+      }
+    },
+    "problem.deprecated": {
+      "textDecoration": {
+        "color": "#C3C3C3",
+        "type": "LINE_THROUGH"
+      }
+    },
+    "problem.info": {
+      "statusColor": "#756D56",
+      "border": {
+        "color": "#B39500"
+      }
+    },
+    "problem.unknown": {},
+    "problem.unused": {
+      "foregroundColor": "#767676"
+    },
+    "transparent": {},
+    "comment.buildConstraint.go": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.methodReceiver.go": {
+      "foregroundColor": "Blue"
+    },
+    "identifier.package.go": {
+      "foregroundColor": "Lime"
+    },
+    "identifier.typeDeclaration.go": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.typeReference.go": {
+      "foregroundColor": "#6FAFBD"
+    },
+    "identifier.variable.shadowing.go": {
+      "foregroundColor": "#7DBDA2"
+    },
+    "metadata.structTag.arbitraryText.go": {
+      "foregroundColor": "Gray Dark"
+    },
+    "metadata.structTag.key.go": {
+      "foregroundColor": "Gray"
+    },
+    "metadata.structTag.value.go": {
+      "foregroundColor": "Green"
+    },
+    "identifier.anchor.yaml": {
+      "foregroundColor": "Violet"
+    },
+    "identifier.field.yaml": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.alias.yaml": {
+      "foregroundColor": "Yellow"
+    },
+    "punctuation.operator.merge.yaml": {
+      "foregroundColor": "Blue"
+    },
+    "schema.yaml": {
+      "foregroundColor": "Gray"
+    },
+    "key.yaml": {
+      "foregroundColor": "Orange"
+    },
+    "value.yaml": {
+      "foregroundColor": "Gray"
+    },
+    "ai.generated": {
+      "backgroundColor": "#3e3973"
+    },
+    "identifier.dependency.scope.amper": {
+      "foregroundColor": "Yellow"
+    },
+    "identifier.dependency.annotator.amper": {
+      "foregroundColor": "Gray"
+    },
+    "identifier.dependency.add.amper": {
+      "foregroundColor": "Violet"
+    },
+    "editor.indentGuide": {
+      "foregroundColor": "#423F52",
+      "textDecoration": {
+        "style": "DASHED"
+      }
+    },
+    "editor.indentGuide.current": {
+      "foregroundColor": "#555169",
+      "textDecoration": {
+        "style": "DASHED"
+      }
+    },
+    "editor.indentGuide.declaration": {
+      "foregroundColor": "#393747"
+    },
+    "editor.indentGuide.declaration.current": {
+      "foregroundColor": "#4F4B61"
+    }
+  },
+  "palette": {
+    "Lighter": "#212126",
+    "Light": "#1f1f24",
+    "Base": "#1d1d22",
+    "Dark": "#1b1b20",
+    "Darker": "#19191e",
+    "Button": "#f23460",
+    "Button Hoover": "#fd0a42",
+    "Pink": "#f23460",
+    "Focus": "#922740",
+    "Focus Progress": "#f23460",
+    "Keywords": "#ff7ab2",
+    "LightPink": "#ff7ab2",
+    "Numbers": "#f99c58",
+    "Classes": "#abe4f7",
+    "Functions": "#d0a9ff",
+    "Strings": "#fb847a",
+    "Operators": "#f6d4ff",
+    "Comments": "#7f848e",
+    "Main Border": "#232328",
+    "Secondary": "#1d1d22",
+    "Accent 0": "#f279ac",
+    "Accent 1": "#b36485",
+    "Accent 2": "#1d1d22",
+    "Accent 3": "#9e4f70",
+    "Accent 4": "#d11f51",
+    "Accent 5": "#d11f51",
+    "Accent 6": "#19191e",
+    "Accent 7": "#964467",
+    "Accent 8": "#ec0a4a",
+    "Accent 9": "#9c516d",
+    "Accent 10": "#a66580",
+    "Accent 11": "#82415c",
+    "Accent 12": "#313136",
+    "Accent 13": "#ff8cbc",
+    "Accent 14": "#7a2c4d",
+    "Accent 15": "#262a65",
+    "Accent 16": "#d65e85",
+    "Color 1": "#000000D9",
+    "Color 2": "#214283",
+    "Color 3": "#1b1b20",
+    "Color 4": "#25AD6B",
+    "Color 5": "#60233d",
+    "Color 6": "#3b2630",
+    "Color 7": "#453239",
+    "Color 8": "#343146",
+    "Color 9": "#983057",
+    "Color 10": "#3A374E",
+    "Color 11": "#232328",
+    "Color 12": "#45405C",
+    "Color 13": "#c43b75",
+    "Color 14": "#49415C",
+    "Color 15": "#983057",
+    "Color 16": "#d84080",
+    "Color 17": "#504B6B",
+    "Color 18": "#544F70",
+    "Color 19": "#565073",
+    "Color 20": "#646078",
+    "Color 21": "#666380",
+    "Color 22": "#f4609e",
+    "Color 23": "#6D6A80",
+    "Color 24": "#f78cb9",
+    "Color 25": "#993750",
+    "Color 26": "#D0D0D9",
+    "Color 27": "#DD3962",
+    "Black": "#000000",
+    "Blue 10-60": "#0B1B3299",
+    "Blue": "#4DACF0",
+    "Gray": "#e1e1ea",
+    "Gray Light Dark": "#b8b8c0",
+    "Gray Dark": "#676773",
+    "Yellow": "#C7A65D",
+    "Green": "#62A362",
+    "Lime": "#AFBF7E",
+    "Orange": "#E0957B",
+    "Violet": "#bfcbff",
+    "White": "#FFFFFF",
+    "Transparent": "#FFFFFF00",
+    "Red 80": "#EC7388",
+    "Red 70": "#EA4B67",
+    "Red 60": "#D93953",
+    "Red 50": "#CE364D",
+    "Red 40": "#C03248",
+    "Red 30": "#A72A3F",
+    "Red 20": "#761B2D",
+    "Red 10": "#390813",
+    "Green 80": "#4CA988",
+    "Green 70": "#3EA17F",
+    "Green 60": "#028764",
+    "Green 50": "#07805F",
+    "Green 40": "#13664E",
+    "Green 30": "#134939",
+    "Green 20": "#0E3127",
+    "Green 10": "#081F19",
+    "Yellow 60": "#F8AB17",
+    "Yellow 50": "#E1971B",
+    "Yellow 40": "#B5791F",
+    "Yellow 30": "#7C511A",
+    "Yellow 20": "#5A3A14",
+    "Yellow 10": "#281806",
+    "Purple 30": "#C07BF3",
+    "Purple 20": "#B35DEF",
+    "Purple 10-60": "#2B0B4099",
+    "Purple 10": "#2B0B40",
+    "Blue 110": "#6DAAF7",
+    "Blue 100": "#4D9BF8",
+    "Blue 90": "#3691F9",
+    "Blue 80": "#1A85F6",
+    "Blue 70": "#0273EB",
+    "Blue 60": "#0C6DDD",
+    "Blue 50": "#195EB5",
+    "Blue 40": "#194176",
+    "Blue 30": "#163764",
+    "Blue 20": "#132C4F",
+    "Blue 10": "#0B1B32",
+    "Neutral_160": "#F8F8F9",
+    "Neutral_150": "#EEEFF0",
+    "Neutral_140": "#E0E1E4",
+    "Neutral_130": "#C3C5C9",
+    "Neutral_120": "#9EA3A8",
+    "Neutral_110": "#898E94",
+    "Neutral_100": "#7A7F86",
+    "Neutral_90": "#6E747B",
+    "Neutral_80": "#646B71",
+    "Neutral_70": "#5D636B",
+    "Neutral_60": "#4C5157",
+    "Neutral_50": "#3E4147",
+    "Neutral_40": "#323438",
+    "Neutral_30": "#252629",
+    "Neutral_20": "#18191B",
+    "Neutral_10": "#090909",
+    "Blue_160": "#F7F8FE",
+    "Blue_150": "#E9EFFC",
+    "Blue_140": "#D6E3F9",
+    "Blue_130": "#A8C6F4",
+    "Blue_120": "#71A3EF",
+    "Blue_110": "#4B8DEC",
+    "Blue_100": "#2A7DEB",
+    "Blue_90": "#0870E4",
+    "Blue_80": "#1868CB",
+    "Blue_70": "#1D61BA",
+    "Blue_60": "#225090",
+    "Blue_50": "#224271",
+    "Blue_40": "#1E3455",
+    "Blue_30": "#18263C",
+    "Blue_20": "#111926",
+    "Blue_10": "#06090F",
+    "Green_160": "#F5FAF5",
+    "Green_150": "#E6F2EA",
+    "Green_140": "#D2E7DB",
+    "Green_130": "#A3CEB8",
+    "Green_120": "#69B090",
+    "Green_110": "#409D78",
+    "Green_100": "#169068",
+    "Green_90": "#14835E",
+    "Green_80": "#1E7857",
+    "Green_70": "#216F52",
+    "Green_60": "#255A44",
+    "Green_50": "#234939",
+    "Green_40": "#1F392D",
+    "Green_30": "#182921",
+    "Green_20": "#111B16",
+    "Green_10": "#060A08",
+    "Red_160": "#FFF8F8",
+    "Red_150": "#FFE9EA",
+    "Red_140": "#FFD8DA",
+    "Red_130": "#FFB0B5",
+    "Red_120": "#F87C88",
+    "Red_110": "#EC5D6F",
+    "Red_100": "#E1465E",
+    "Red_90": "#D73251",
+    "Red_80": "#C72C49",
+    "Red_70": "#B82D46",
+    "Red_60": "#922C3B",
+    "Red_50": "#742831",
+    "Red_40": "#592228",
+    "Red_30": "#401A1E",
+    "Red_20": "#291214",
+    "Red_10": "#100607",
+    "Yellow_160": "#FFF8EF",
+    "Yellow_150": "#FCEDDC",
+    "Yellow_140": "#F5DEC2",
+    "Yellow_130": "#E5BF8C",
+    "Yellow_120": "#CD984D",
+    "Yellow_110": "#BD8128",
+    "Yellow_100": "#B07203",
+    "Yellow_90": "#9F680C",
+    "Yellow_80": "#916012",
+    "Yellow_70": "#865A15",
+    "Yellow_60": "#6C4B18",
+    "Yellow_50": "#573D18",
+    "Yellow_40": "#433016",
+    "Yellow_30": "#302412",
+    "Yellow_20": "#20180C",
+    "Yellow_10": "#0C0805",
+    "Violet_160": "#F9F7FE",
+    "Violet_150": "#EEEDFD",
+    "Violet_140": "#DEDFFC",
+    "Violet_130": "#BDC0FA",
+    "Violet_120": "#9599F9",
+    "Violet_110": "#7F80F9",
+    "Violet_100": "#726CF9",
+    "Violet_90": "#685AFB",
+    "Violet_80": "#604EF3",
+    "Violet_70": "#594CDD",
+    "Violet_60": "#4843A8",
+    "Violet_50": "#3A3982",
+    "Violet_40": "#2E2E61",
+    "Violet_30": "#222342",
+    "Violet_20": "#17172B",
+    "Violet_10": "#080810",
+    "Purple_160": "#FDF6FD",
+    "Purple_150": "#F6EAF9",
+    "Purple_140": "#EDDCF5",
+    "Purple_130": "#D8B9EC",
+    "Purple_120": "#C08FE0",
+    "Purple_110": "#B174D9",
+    "Purple_100": "#A660D4",
+    "Purple_90": "#9D4FCF",
+    "Purple_80": "#9049BE",
+    "Purple_70": "#8646AE",
+    "Purple_60": "#6A3D88",
+    "Purple_50": "#55346A",
+    "Purple_40": "#412B50",
+    "Purple_30": "#2F2139",
+    "Purple_20": "#1E1524",
+    "Purple_10": "#0B080D",
+    "YellowBright_10": "#E59408",
+    "LightTint_80": "#E0E1E4CC",
+    "LightTint_70": "#E0E1E4B2",
+    "LightTint_30": "#E0E1E44D",
+    "LightTint_20": "#E0E1E433",
+    "LightTint_15": "#E0E1E426",
+    "LightTint_12": "#E0E1E41F",
+    "LightTint_10": "#E0E1E41A",
+    "LightTint_8": "#E0E1E414",
+    "LightTint_5": "#E0E1E40D",
+    "DarkTint_70": "#18191BB2",
+    "DarkTint_60": "#18191B99",
+    "DarkTint_30": "#18191B4D",
+    "DarkTint_20": "#18191B33",
+    "DarkTint_15": "#18191B26",
+    "DarkTint_10": "#18191B1A",
+    "DarkTint_7": "#18191B12",
+    "DarkTint_5": "#18191B0D",
+    "DarkTint_3": "#18191B08",
+    "BlueTint_60": "#0870E499",
+    "BlueTint_40": "#0870E466",
+    "BlueTint_30": "#0870E44D",
+    "BlueTint_25": "#0870E440",
+    "BlueTint_20": "#0870E433",
+    "BlueTint_15": "#0870E426",
+    "BlueTint_10": "#0870E41A",
+    "BlueTint_5": "#0870E40D"
+  }
+}
